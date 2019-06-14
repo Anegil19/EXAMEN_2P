@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2017\Projects\EXAMEN2P\EXAMEN2P\bin\Debug\EXAMEN2P.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\EXAMEN2P\EXAMEN2P\bin\Debug\EXAMEN2P.exe
+c:\users\hp\documents\visual studio 2017\Projects\EXAMEN2P\EXAMEN2P\bin\Debug\EXAMEN2P.pdb
+c:\users\hp\documents\visual studio 2017\Projects\EXAMEN2P\EXAMEN2P\obj\Debug\EXAMEN2P.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\EXAMEN2P\EXAMEN2P\obj\Debug\EXAMEN2P.Form1.resources
+c:\users\hp\documents\visual studio 2017\Projects\EXAMEN2P\EXAMEN2P\obj\Debug\EXAMEN2P.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2017\Projects\EXAMEN2P\EXAMEN2P\obj\Debug\EXAMEN2P.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2017\Projects\EXAMEN2P\EXAMEN2P\obj\Debug\EXAMEN2P.exe
+c:\users\hp\documents\visual studio 2017\Projects\EXAMEN2P\EXAMEN2P\obj\Debug\EXAMEN2P.pdb
